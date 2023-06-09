@@ -1,0 +1,28 @@
+.navi{
+    background-color: navy;
+}
+.nav-link, .navbar-brand{
+    color: white;
+}
+.nav-link:hover{
+    color: red;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.navbar-toggler, .navbar-toggler-icon{
+    color: white;
+    background-color: white;
+}
+
+form{
+    background: navy;
+    color: white;
+    padding: 16px 18px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    justify-content: center;
+}
+.buttons {
+    text-align: center;
+}
